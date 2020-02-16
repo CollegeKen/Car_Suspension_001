@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="audi-rs5-crown-gear-quattro.jpg">../CarSuspension001/audi-rs5-crown-gear-quattro.jpg</file>
+    </qresource>
+</RCC>
